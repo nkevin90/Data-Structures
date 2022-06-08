@@ -1,4 +1,4 @@
-# Data-Structures implementation
+# DS implementation
 Lists
 <br>
 Tuples
