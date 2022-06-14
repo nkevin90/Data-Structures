@@ -1,8 +1,8 @@
 # DS implementation
 <html>
 <body>
-<dd>DS implementation 1<\dd>
-<dt>Lists<\dt>
+<dd>DS implementation 1
+<dt>Lists
 <br>
 Tuples
 <br>
@@ -11,4 +11,4 @@ Sets
 Dictionaries
   <\body>
     
-<\html>
+
