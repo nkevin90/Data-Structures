@@ -1,6 +1,6 @@
 # DS implementation
-<caption>DS implementation 1<\caption>
-Lists
+<dd>DS implementation 1<\dd>
+<dt>Lists<\dt>
 <br>
 Tuples
 <br>
