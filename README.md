@@ -1,4 +1,4 @@
-# DS implementation
+# DS implementation using Python
 <html>
 <body>
 <dd>DS implementation 1
