@@ -15,3 +15,12 @@ def mobile_to_words(number):
 number = int(input('Hi User,Kindly enter your mobile number:\n '))
 print('Mobile Number entered was \n', end='')
 print(mobile_to_words(number))
+
+'''List Examples'''
+# Create a 5 x 5 matrix using a list of lists: matrix
+matrix = [[0,1,2,3,4] for col in range (5)]
+
+# Print the matrix
+for row in matrix:
+    print(row)
+
